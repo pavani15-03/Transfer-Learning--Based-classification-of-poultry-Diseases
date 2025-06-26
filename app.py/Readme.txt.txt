@@ -15,17 +15,17 @@ Main Features:
 Folder Structure:
 ------------------
 project-folder/
-¦
+Â¦
 +-- app.py                     # Flask backend script
 +-- healthy_vs_rotten.h5       # Trained Keras model
 +-- templates/
-¦   +-- index.html             # Web form for image upload
-¦   +-- blog.html              # Blog homepage
-¦   +-- single.html            # Detailed blog post
-¦   +-- portfoliodetails.html  # Project case study page
-¦   +-- ipython.html           # Static output from Jupyter Notebook
+Â¦   +-- index.html             # Web form for image upload
+Â¦   +-- blog.html              # Blog homepage
+Â¦   +-- single.html            # Detailed blog post
+Â¦   +-- portfoliodetails.html  # Project case study page
+Â¦   +-- ipython.html           # Static output from Jupyter Notebook
 +-- static/
-¦   +-- uploads/               # Folder to store uploaded images
+Â¦   +-- uploads/               # Folder to store uploaded images
 +-- README.txt                 # This file
 +-- requirements.txt           # List of required Python packages
 
@@ -51,7 +51,7 @@ Requirements:
 
 Credits:
 --------
-Internship Project by [A.pavani Nandhana]
+Internship Project by [A.pavani Nandana]
 Year: 2025
 
 License:
